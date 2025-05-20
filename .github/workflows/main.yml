@@ -7,7 +7,7 @@ on:
       bootloader:
         description: "Select Bootloader"
         required: true
-        default: "b860h"
+        default: "hg680p"
         type: choice
         options:
           - b860h
